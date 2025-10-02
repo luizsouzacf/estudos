@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  margin-top: 0px;
+}
+.comprar {
+  background: goldenrod;
+  color: yellow;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.item {
+  background: #f7f7f7;
+  border: 2px solid #e7e7e7;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+.Veja {
+  background: rgba(226, 193, 8, 0.774);
+  color: yellow;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.item2 {
+  padding: 20px;
+  margin: 50 px;
+}
+
+  
+} 
+.fazer {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
